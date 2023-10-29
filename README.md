@@ -16,6 +16,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <img src="https://img.shields.io/badge/Yandex Cloud-5282FF?style=for-the-badge&logo=Yandex Cloud&logoColor=white"/>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Excellent-84)](https://github.com/Excellent-84/github-profile-trophy)
 
