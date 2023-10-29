@@ -1,6 +1,7 @@
-<h1 align="center">«Hello, world!» I'm <a href="https://github.com/Excellent-84" target="_blank">Evgeny</a> 
+<h1 align="center">Hello, world! I'm <a href="https://daniilshat.ru/" target="_blank">Evgeny</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python backend developer</h3>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=My+stack:)    
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
