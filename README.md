@@ -1,6 +1,6 @@
 <h1 align="center">Hello, world! I'm <a href="https://daniilshat.ru/" target="_blank">Evgeny</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python backend developer</h3>
+<h3 align="center">Python developer</h3>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=My+stack:)    
