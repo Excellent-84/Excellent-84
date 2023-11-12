@@ -20,7 +20,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Excellent-84)](https://github.com/Excellent-84/github-profile-trophy)
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Excellent-84)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Excellent-84)](https://git.io/streak-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
